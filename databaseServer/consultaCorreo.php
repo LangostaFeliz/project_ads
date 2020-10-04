@@ -2,7 +2,7 @@
 //header('Content-Type: application/json');
 include('dato.php');
 
-$username=$_POST['username'];
+$username=$_POST['correo'];
 $enlace = mysqli_connect($host, $usuario, $password, $bd);
 if(!empty($username)){
     $query="select *FROM correo ";

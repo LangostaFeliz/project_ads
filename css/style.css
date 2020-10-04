@@ -1,6 +1,20 @@
 body {
     font-family: 'Varela Round', sans-serif;
 }
+
+.fondo{
+    background: url(/source/cimabus.jpg) no-repeat top center;
+		background-size: cover;
+		background-attachment: fixed;
+		width: 100%;
+		height: 100%;
+		position: fixed;
+		top: 0;
+		left: 0;
+		right: 0;
+		bottom: 0;
+}
+
 .modal-login {		
     color: #636363;
     width: 350px;
