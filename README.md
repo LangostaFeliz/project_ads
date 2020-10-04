@@ -1,6 +1,6 @@
 # project_ads
 
-favor de clonar la carpeta en el path:C:\xampp\htdocs
+favor de clonar el proyecto en el path:C:\xampp\htdocs
 
 importa el archivo SQL en su base de datos(XAMPP)
 
